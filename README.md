@@ -1,4 +1,6 @@
-Brainfuck Evolved
+![Brainfuck: Evolved](https://raw.githubusercontent.com/kurtjd/brainfuck-evolved/master/bfevolved.png)
+
+Brainfuck: Evolved
 =================
 A little while back I had learned about genetic algorithms, and became very excited with the concept. After researching them a bit and playing around with them, I figured it'd be cool to see if I could apply genetic programming techniques myself. I didn't expect much initially, but I was impressed with the final result.
 
