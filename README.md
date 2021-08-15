@@ -4,6 +4,8 @@ A little while back I had learned about genetic algorithms, and became very exci
 
 The program uses a genetic algorithm to select and breed brainfuck programs that are scored by how closely their output matches the desired output, using an internal brainfuck interpreter I wrote. Beginning with an initial randomly generated population, this process is repeated over and over again, until finally a brainfuck program is created that can output strings such as "Hello, world!" or whatever else the user wants.
 
+As of now, the program is only really capable of producing trivial brainfuck programs that simply output a string. Perhaps in the future I will tweak it to be able to incorporate actual logic into the brainfuck programs that it evolves.
+
 Build Procedures
 ================
 ```g++ interpreter.cpp interpreter.h main.cpp -o bfevolved```
