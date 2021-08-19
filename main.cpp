@@ -32,7 +32,7 @@ const double LENGTH_PENALTY = 0.001;  // The size of the program is multiplied b
 const unsigned DISPLAY_RATE = 10000;  // How often to display the best program so far.
 
 // These aren't constant because they can be changed by the user.
-std::string GOAL_OUTPUT = "Computerphile";
+std::string GOAL_OUTPUT = "Brainfuck";
 size_t GOAL_OUTPUT_SIZE = GOAL_OUTPUT.length();
 
 
